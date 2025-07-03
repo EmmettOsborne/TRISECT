@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "task.h": "c",
+        "gpio.h": "c",
+        "eagle_soc.h": "c",
+        "pin_mux_register.h": "c",
+        "uart_register.h": "c"
+    }
+}
