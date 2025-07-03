@@ -4,7 +4,7 @@ Hello! My name is Emmett Osborne! I'm a 23 year old new CS grad from Montana Sta
 
 I've been working on TRISECT on and off since mid 2022. Originally inspired by the STriDER team at RoMeLa (Virginia Tech, later RoMeLa moved to UCLA) Robotics Lab, I set off to attempt to replicate their unique gait with 1 fewer degree of freedom per leg. While I am not a Mechanical Engineer, I am at least somewhat confident that the originally troublesome mechanical challenges are now behind me, and the problem is merely a software one!
 
-![TRISECT Standing](other_media/TRISECT_Standing.png)
+![TRISECT Standing](robot/other_media/TRISECT_Standing.png)
 
 The following documentation on this project is partially from a Microcontrollers class project, so take it with a grain of salt. I intend to rewrite it into a more generalized explanation soon.
 
@@ -26,15 +26,15 @@ You'll notice the boards are through hole only. I chose to do this because I was
 
 Main Body:
 
-![Body Circuit Diagram](circuit_diagrams/body_circuit_diagram.png)
-![Body PCB Layout](circuit_diagrams/body_PCB.png)
-![Body PCB](other_media/body_PCB_manufactured.png)
+![Body Circuit Diagram](robot/circuit_diagrams/body_circuit_diagram.png)
+![Body PCB Layout](robot/circuit_diagrams/body_PCB.png)
+![Body PCB](robot/other_media/body_PCB_manufactured.png)
 
 Leg:
 
-![Leg Circuit Diagram](circuit_diagrams/leg_circuit_diagram.png)
-![Leg PCB Layout](circuit_diagrams/leg_PCB.png)
-![Leg PCB](other_media/leg_PCB_manufactured.png)
+![Leg Circuit Diagram](robot/circuit_diagrams/leg_circuit_diagram.png)
+![Leg PCB Layout](robot/circuit_diagrams/leg_PCB.png)
+![Leg PCB](robot/other_media/leg_PCB_manufactured.png)
 
 ## Software overview
 
